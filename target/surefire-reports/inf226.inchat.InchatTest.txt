@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: inf226.inchat.InchatTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.708 s <<< FAILURE! - in inf226.inchat.InchatTest
+chatSetup  Time elapsed: 0.704 s  <<< ERROR!
+inf226.util.Maybe$NothingException: Unexpected Maybe.nothing()
+

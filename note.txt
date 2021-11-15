@@ -1,0 +1,3 @@
+Task 0:
+
+1. Return feedback if password was not NIST approved
